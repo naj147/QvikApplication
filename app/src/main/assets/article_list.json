@@ -1,0 +1,60 @@
+{
+  "articles": [
+    {
+      "id": 1,
+      "channelId": 2,
+      "title": "Arctic sea ice extent hits record low for winter maximum",
+      "broadcaster": "CNN",
+      "publishedAt": "Jan 3 2015",
+      "content": "Sea ice in the Arctic Ocean has fallen to the lowest recorded level for the winter season, according to US scientists. The maximum this year was 14.5 million sq km, said the National Snow and Ice Data Center at the University of Colorado in Boulder"
+    },
+    {
+      "id": 2,
+      "channelId": 4,
+      "title": "Crypto Derivatives Exchange FTX Launched Bitcoin Options Trading",
+      "broadcaster": "CNN",
+      "publishedAt": "Apr 13 2015",
+      "content": "Cryptocurrency derivatives exchange FTX has launched Bitcoin (BTC) options trading on Jan. 11.\\r\\nFTX CEO Sam Bankman-Fried announced in a tweet yesterday that options were listed on the trading platform. Furthermore, later the same day he also claimed that opt"
+    },
+    {
+      "id": 3,
+      "channelId": 4,
+      "title": "Let's Talk Bitcoin! #422 'The Internet Was Illegal' and Other Early Stories With Zooko Wilcox",
+      "broadcaster": "CNN",
+      "publishedAt": "June 8 2015",
+      "content": "On Today's Episode... The Let's Talk Bitcoin! show enlisted CoinDesk reporter Leigh Cuen and early cypherpunk Zooko Wilcox for a conversation on the history, challenges and long term development path of early, formative technologies."
+    },
+    {
+      "id": 4,
+      "channelId": 2,
+      "title": "CentOS Linux 8.1 (1911) released and here is how to upgrade it",
+      "broadcaster": "CNN",
+      "publishedAt": "May 15 2015",
+      "content": "CentOS Linux 8.1 (1191) released. It is a Linux distribution derived from RHEL (Red Hat Enterprise Linux) 8.1 source code. CentOS was created when Red Hat stopped providing RHEL free. CentOS 8.1 gives complete control of its open-source software packages."
+    },
+    {
+      "id": 5,
+      "channelId": 2,
+      "title": "Last decade confirmed as warmest on record",
+      "broadcaster": "BBC",
+      "publishedAt": "May 15 2015",
+      "content": "The 10 years to the end of 2019 have been confirmed as the warmest decade on record by three global agencies.\n\nAccording to Nasa, Noaa and the UK Met Office, last year was the second warmest in a record dating back to 1850.\n\nThe past five years were the hottest in the 170-year series, with the average of each one more than 1C warmer than pre-industrial.\n\nThe Met Office says that 2020 is likely to continue this warming trend.\n\n2016 remains the warmest year on record, when temperatures were boosted by the El Niño weather phenomenon."
+    },
+    {
+      "id": 6,
+      "channelId": 1,
+      "title": "This All-Female DJ Collective Wants to Empower the Women of Shanghai’s Nocturnal World",
+      "broadcaster": "BBC",
+      "publishedAt": "May 15 2019",
+      "content": "In 19th-century rural China, peasant women of the Jiangyong County in the southern Hunan province developed a secret script named Nüshū. Its characters, mastered by women and indecipherable to men, appear in thin, downward-slanting wisps, like spider legs dancing across paper. Women used the writing system to communicate their most intimate thoughts to one another in China’s heavily gender-divided society—a disparity that still endures today."
+    },
+    {
+      "id": 7,
+      "channelId": 1,
+      "title": "At Milan Men’s Week, the War Lives On",
+      "broadcaster": "BBC",
+      "publishedAt": "May 15 2018",
+      "content": "Every Sunday morning here a time-warped market springs up in via Armorari and along a triangle of neighboring streets just steps from the great cathedral, the Duomo. On folding tables and the steps of the old post office vendors sell curious ephemera, principally postcards, coins and stamps.\n\nThe Mercatino Filatelico e Numismatico was founded in 1938, when Benito Mussolini’s Fascist party — which had come to power on a promise to transform an economically crippled and divided nation into a new Roman empire — still had a fragmented Italy in its grip. By then the country already was two years into an unholy alliance with Nazi Germany and another  two away from going to war."
+    }
+  ]
+}

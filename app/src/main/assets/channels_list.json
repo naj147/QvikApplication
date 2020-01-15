@@ -1,0 +1,68 @@
+{
+  "channels": [
+    {
+      "id": 1,
+      "name": "fashion",
+      "isFollowing": true,
+      "isPopular": false,
+      "shouldExplore": false,
+      "followers": "234K"
+    },
+    {
+      "id": 2,
+      "name": "Science",
+      "isFollowing": true,
+      "isPopular": false,
+      "shouldExplore": false,
+      "followers": "124K"
+    },
+    {
+      "id": 3,
+      "name": "Auto",
+      "isFollowing": true,
+      "isPopular": false,
+      "shouldExplore": false,
+      "followers": "704K"
+    },
+    {
+      "id": 4,
+      "name": "Technology",
+      "isFollowing": true,
+      "isPopular": false,
+      "shouldExplore": false,
+      "followers": "240K"
+    },
+    {
+      "id": 5,
+      "name": "Entertainment",
+      "isFollowing": true,
+      "isPopular": false,
+      "shouldExplore": false,
+      "followers": "799K"
+    },
+    {
+      "id": 6,
+      "name": "Environment",
+      "isFollowing": true,
+      "isPopular": false,
+      "shouldExplore": false,
+      "followers": "234K"
+    },
+    {
+      "id": 7,
+      "name": "Finance",
+      "isFollowing": true,
+      "isPopular": false,
+      "shouldExplore": false,
+      "followers": "99K"
+    },
+    {
+      "id": 8,
+      "name": "Travel",
+      "isFollowing": true,
+      "isPopular": false,
+      "shouldExplore": false,
+      "followers": "1254K"
+    }
+  ]
+}

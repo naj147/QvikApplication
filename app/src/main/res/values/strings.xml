@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">QvikApplication</string>
+    <string name="article_list_fragment">ArticleList</string>
+    <string name="channel_list_fragment">ChannelList</string>
+    <string name="article_detail_fragment">ArticleDetail</string>
+    <string name="channel_view_pager_fragment">ChannelViewPagerFragment</string>
+    <string name="following">Following</string>
+    <string name="popular">Popular</string>
+    <string name="explore">Explore</string>
+    <string name="coming_soon">Coming soon, Keep an eye on this space.</string>
+</resources>

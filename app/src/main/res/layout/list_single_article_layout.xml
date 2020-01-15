@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="@dimen/size8">
+
+    <TextView
+        android:id="@+id/title"
+        style="@style/textView_title_body_14bold"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/size8"
+        android:text="@string/app_name" />
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_marginTop="@dimen/size8"
+        android:padding="@dimen/size8">
+
+        <ImageView
+            android:id="@+id/broadcasterImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/size3"
+            android:src="@drawable/icon_list_source" />
+
+        <TextView
+            android:id="@+id/broadcasterTitle"
+            style="@style/textView_helvetica_normal_14sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/broadcasterImage"
+            android:layout_alignBottom="@id/broadcasterImage"
+            android:layout_marginStart="@dimen/size8"
+            android:layout_toEndOf="@+id/broadcasterImage"
+            android:gravity="center_vertical"
+            android:text="123" />
+
+        <ImageView
+            android:id="@+id/publishedImage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/size32"
+            android:layout_toEndOf="@+id/broadcasterTitle"
+            android:padding="@dimen/size3"
+            android:src="@drawable/icon_list_time" />
+
+        <TextView
+            android:id="@+id/publishedAt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/publishedImage"
+            android:layout_alignBottom="@+id/publishedImage"
+            android:layout_marginStart="@dimen/size8"
+            android:layout_toEndOf="@+id/publishedImage"
+            android:gravity="center_vertical"
+            android:text="@string/following" />
+
+        <TextView
+            android:id="@+id/channelInfo"
+            style="@style/textView_helvetica_normal_12sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentEnd="true"
+            android:text="@string/app_name"
+            android:visibility="gone" />
+    </RelativeLayout>
+</RelativeLayout>

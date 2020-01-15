@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">@color/purple</item>
+    </style>
+
+    <style name="textView_helvetica_normal_12sp">
+        <item name="android:fontFamily">@font/helvetica_neue</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size_12</item>
+    </style>
+
+    <style name="textView_helvetica_normal_12spWhite">
+        <item name="android:fontFamily">@font/helvetica_neue</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_12</item>
+    </style>
+
+    <style name="textView_helvetica_normal_14sp">
+        <item name="android:fontFamily">@font/helvetica_neue</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size_14</item>
+    </style>
+
+    <style name="textView_title_channel_20bold">
+        <item name="android:fontFamily">@font/helvetica_neue</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_20</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_title_thumbnail_12bold">
+        <item name="android:fontFamily">@font/helvetica_neue</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">@dimen/text_size_12</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="textView_title_body_14bold">
+        <item name="android:fontFamily">@font/helvetica_neue</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">@dimen/text_size_14</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+
+</resources>
