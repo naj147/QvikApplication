@@ -11,7 +11,7 @@ class ArticleListRepository @Inject constructor(
     private val dao: ArticlesDao,
     private val channelDao: ChannelDao
 ) {
-    fun getAllChannels(channelId: Int): Flowable<List<Articles>> {
+    fun getAllArticles(channelId: Int): Flowable<List<Articles>> {
         return dao.getAllArticleOfChannel(channelId)
     }
 

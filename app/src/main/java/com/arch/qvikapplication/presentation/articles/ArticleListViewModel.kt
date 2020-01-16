@@ -19,7 +19,7 @@ class ArticleListViewModel @Inject constructor(private val articleListRepository
     val channelLiveData = MutableLiveData<Channel>()
     fun getAllArticles(channelId: Int) {
         disposables.add(
-            articleListRepository.getAllChannels(channelId)
+            articleListRepository.getAllArticles(channelId)
                 .subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())
                 .subscribe({
