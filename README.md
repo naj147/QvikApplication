@@ -25,7 +25,7 @@ Dagger 2 is used for dependency injection.
 
 Application overview
 ------------
-A sample app consist of 4 screens : First screen fetches the channels, then next will show articles related
+A sample app consist of 3 screens : First screen fetches the channels, then next will show articles related
 to a channel and then next screen shows the details of the article.
 
 Getting Started
